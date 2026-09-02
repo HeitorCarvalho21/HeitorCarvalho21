@@ -3,19 +3,25 @@
 -->
 
 <div align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=210&color=8B0015&text=HEITOR%20CARVALHO%20SILVA&fontColor=ffffff&fontSize=38&fontAlignY=38&desc=FULL%20STACK%20DEVELOPER&descAlignY=59&descSize=16&animation=fadeIn" alt="Cabeçalho de Heitor Carvalho Silva" />
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=210&color=8B0015&text=HEITOR%20CARVALHO%20SILVA&fontColor=ffffff&fontSize=38&fontAlignY=38&desc=DEV%20FULL%20STACK&descAlignY=59&descSize=16&animation=fadeIn" alt="Cabeçalho de Heitor Carvalho Silva" />
 </div>
 
 <div align="center">
   <a href="https://github.com/HeitorCarvalho21">
-    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=23&duration=2800&pause=900&color=FF173D&center=true&vCenter=true&repeat=true&width=720&height=55&lines=Ol%C3%A1%2C+eu+sou+Heitor+Carvalho+Silva;Desenvolvedor+Full+Stack;Criando+o+Menit;C%C3%B3digo%2C+design+e+experi%C3%AAncias+digitais" alt="Apresentação animada" />
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=23&duration=2800&pause=900&color=FF173D&center=true&vCenter=true&repeat=true&width=720&height=55&lines=Ol%C3%A1%2C+eu+sou+Heitor+Carvalho+Silva;Dev+Full+Stack;Criando+o+Menit;C%C3%B3digo%2C+design+e+experi%C3%AAncias+digitais" alt="Apresentação animada" />
   </a>
 </div>
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=HeitorCarvalho21&label=VISITAS%20AO%20PERFIL&color=ff173d&style=for-the-badge" alt="Visitas ao perfil" />
   <img src="https://img.shields.io/badge/NASCIMENTO-18%20DE%20SETEMBRO-111111?style=for-the-badge&labelColor=050505&color=8b0015" alt="Aniversário em 18 de setembro" />
-  <img src="https://img.shields.io/badge/FOCO-FULL%20STACK-111111?style=for-the-badge&labelColor=050505&color=8b0015" alt="Foco em desenvolvimento full stack" />
+  <img src="https://img.shields.io/badge/PERFIL-DEV-111111?style=for-the-badge&labelColor=050505&color=8b0015" alt="Dev" />
+</div>
+
+<div align="center">
+  <a href="https://github.com/settings/appearance">
+    <img src="https://img.shields.io/badge/%E2%97%90-ALTERAR%20TEMA-111111?style=for-the-badge&labelColor=8b0015" alt="Abrir configurações de tema do GitHub" />
+  </a>
 </div>
 
 <br />
@@ -29,14 +35,24 @@
 ```ts
 const heitor = {
   nome: "Heitor Carvalho Silva",
+  nacionalidade: "Brasileiro 🇧🇷",
   aniversario: "18 de setembro",
-  perfil: "Desenvolvedor Full Stack",
+  perfil: "Dev Full Stack",
   estudando: ["Desenvolvimento de Sistemas", "ENEM"],
   criando: "Menit — aplicativo de conversa e TCC",
   interesses: ["Tecnologia", "UI/UX", "Edição de vídeo", "Photoshop"],
   objetivo: "Transformar boas ideias em produtos digitais reais"
 };
 ```
+
+## `> idiomas`
+
+<div align="center">
+  <img src="https://img.shields.io/badge/%F0%9F%87%A7%F0%9F%87%B7%20Portugu%C3%AAs-Nativo-8B0015?style=for-the-badge&labelColor=111111" alt="Português nativo" />
+  <img src="https://img.shields.io/badge/%F0%9F%87%AC%F0%9F%87%A7%20Ingl%C3%AAs-Intermedi%C3%A1rio%20B1-8B0015?style=for-the-badge&labelColor=111111" alt="Inglês intermediário B1" />
+  <img src="https://img.shields.io/badge/%F0%9F%87%AB%F0%9F%87%B7%20Franc%C3%AAs-B%C3%A1sico-8B0015?style=for-the-badge&labelColor=111111" alt="Francês básico" />
+  <img src="https://img.shields.io/badge/%F0%9F%87%AA%F0%9F%87%B8%20Espanhol-B%C3%A1sico-8B0015?style=for-the-badge&labelColor=111111" alt="Espanhol básico" />
+</div>
 
 ## `> agora`
 
@@ -50,7 +66,6 @@ const heitor = {
     <td width="50%" valign="top">
       <h3>📚 Próximo nível</h3>
       <p>Estudando para o ENEM enquanto aprofundo minhas habilidades em desenvolvimento web, arquitetura de aplicações e design digital.</p>
-      <img src="https://img.shields.io/badge/MODO-EVOLU%C3%87%C3%83O%20CONSTANTE-ff173d?style=flat-square&labelColor=111111" alt="Em evolução constante" />
     </td>
   </tr>
 </table>
@@ -113,22 +128,16 @@ Além da programação, gosto de trabalhar com **edição de vídeo**, composiç
 ## `> github_data`
 
 <div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=HeitorCarvalho21&show_icons=true&hide_border=true&bg_color=0d1117&title_color=ff173d&icon_color=ff173d&text_color=ffffff&ring_color=8b0015&locale=pt-br" alt="Estatísticas do GitHub" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HeitorCarvalho21&layout=compact&hide_border=true&bg_color=0d1117&title_color=ff173d&text_color=ffffff&locale=pt-br" alt="Linguagens mais usadas" />
-</div>
-
-<br />
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=HeitorCarvalho21&theme=dark&hide_border=true&background=0D1117&ring=FF173D&fire=FF173D&currStreakLabel=FF173D&sideLabels=FFFFFF&dates=8B949E" alt="Sequência de contribuições" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=HeitorCarvalho21&theme=dark&hide_border=true&background=0D1117&ring=FF173D&fire=FF173D&currStreakLabel=FF173D&sideLabels=FFFFFF&dates=8B949E" />
+    <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com?user=HeitorCarvalho21&theme=default&hide_border=true&background=FFFFFF&ring=8B0015&fire=FF173D&currStreakLabel=8B0015" />
+    <img src="https://streak-stats.demolab.com?user=HeitorCarvalho21&theme=dark&hide_border=true&background=0D1117&ring=FF173D&fire=FF173D&currStreakLabel=FF173D" alt="Sequência de contribuições" />
+  </picture>
 </div>
 
 ## `> connect`
 
 <div align="center">
-  <a href="mailto:Heitorcarsil@gmail.com">
-    <img src="https://img.shields.io/badge/EMAIL-111111?style=for-the-badge&logo=gmail&logoColor=ff173d" alt="E-mail" />
-  </a>
   <a href="https://www.linkedin.com/in/heitor-carvalho-silva-680b863ab/">
     <img src="https://img.shields.io/badge/LINKEDIN-111111?style=for-the-badge&logo=linkedin&logoColor=ff173d" alt="LinkedIn" />
   </a>
@@ -136,6 +145,16 @@ Além da programação, gosto de trabalhar com **edição de vídeo**, composiç
     <img src="https://img.shields.io/badge/INSTAGRAM-111111?style=for-the-badge&logo=instagram&logoColor=ff173d" alt="Instagram" />
   </a>
 </div>
+
+<br />
+
+<details align="center">
+  <summary><strong>📧 EMAIL PROFISSIONAL</strong></summary>
+  <br />
+  <code>Heitorcarsil@gmail.com</code>
+  <br /><br />
+  <a href="mailto:Heitorcarsil@gmail.com">Abrir aplicativo de e-mail</a>
+</details>
 
 <br />
 
