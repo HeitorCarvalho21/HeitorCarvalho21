@@ -1,27 +1,32 @@
+<!--
+  README de perfil de Heitor Carvalho Silva
+-->
+
 <div align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=210&color=0:050505,45:67000d,100:ff173d&text=HEITOR%20CARVALHO%20SILVA&fontColor=ffffff&fontSize=38&fontAlignY=38&desc=FULL%20STACK%20DEVELOPER&descAlignY=59&descSize=16&animation=fadeIn" alt="Cabeçalho de Heitor Carvalho Silva" />
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=210&color=8B0015&text=HEITOR%20CARVALHO%20SILVA&fontColor=ffffff&fontSize=38&fontAlignY=38&desc=FULL%20STACK%20DEVELOPER&descAlignY=59&descSize=16&animation=fadeIn" alt="Cabeçalho de Heitor Carvalho Silva" />
 </div>
 
 <div align="center">
-  <a href="https://github.com/SEU_USUARIO">
+  <a href="https://github.com/HeitorCarvalho21">
     <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=23&duration=2800&pause=900&color=FF173D&center=true&vCenter=true&repeat=true&width=720&height=55&lines=Ol%C3%A1%2C+eu+sou+Heitor+Carvalho+Silva;Desenvolvedor+Full+Stack;Criando+o+Menit;C%C3%B3digo%2C+design+e+experi%C3%AAncias+digitais" alt="Apresentação animada" />
   </a>
 </div>
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=SEU_USUARIO&label=VISITAS%20AO%20PERFIL&color=ff173d&style=for-the-badge" alt="Visitas ao perfil" />
+  <img src="https://komarev.com/ghpvc/?username=HeitorCarvalho21&label=VISITAS%20AO%20PERFIL&color=ff173d&style=for-the-badge" alt="Visitas ao perfil" />
   <img src="https://img.shields.io/badge/NASCIMENTO-18%20DE%20SETEMBRO-111111?style=for-the-badge&labelColor=050505&color=8b0015" alt="Aniversário em 18 de setembro" />
   <img src="https://img.shields.io/badge/FOCO-FULL%20STACK-111111?style=for-the-badge&labelColor=050505&color=8b0015" alt="Foco em desenvolvimento full stack" />
 </div>
 
 <br />
 
-> whoami
+## `> whoami`
 
 <p align="center">
   Atualmente tenho <strong><!-- AGE:START -->17 anos<!-- AGE:END --></strong>, estudo Desenvolvimento de Sistemas e gosto de transformar ideias em experiências digitais completas.
 </p>
 
+```ts
 const heitor = {
   nome: "Heitor Carvalho Silva",
   aniversario: "18 de setembro",
@@ -31,8 +36,9 @@ const heitor = {
   interesses: ["Tecnologia", "UI/UX", "Edição de vídeo", "Photoshop"],
   objetivo: "Transformar boas ideias em produtos digitais reais"
 };
+```
 
-> agora
+## `> agora`
 
 <table>
   <tr>
@@ -49,7 +55,7 @@ const heitor = {
   </tr>
 </table>
 
-> tech_stack
+## `> tech_stack`
 
 <div align="center">
   <h3>Frontend</h3>
@@ -62,7 +68,7 @@ const heitor = {
   <img src="https://skillicons.dev/icons?i=git,github,vscode,figma&theme=dark" alt="Git, GitHub, VS Code e Figma" />
 </div>
 
-> creative_mode
+## `> creative_mode`
 
 <div align="center">
   <img src="https://img.shields.io/badge/Adobe%20Photoshop-001E36?style=for-the-badge&logo=adobephotoshop&logoColor=31A8FF" alt="Adobe Photoshop" />
@@ -73,60 +79,51 @@ const heitor = {
 
 <br />
 
-Além da programação, gosto de trabalhar com edição de vídeo, composição visual e manipulação de imagens. Para mim, código e criatividade fazem parte da mesma coisa: construir experiências que funcionem bem e também tenham identidade.
+Além da programação, gosto de trabalhar com **edição de vídeo**, composição visual e manipulação de imagens. Para mim, código e criatividade fazem parte da mesma coisa: construir experiências que funcionem bem e também tenham identidade.
 
-> explore
+## `> explore`
 
 <details>
   <summary><strong>🎯 O que estou buscando</strong></summary>
   <br />
 
-Evoluir como desenvolvedor full stack.
-
-Entregar o Menit como um produto completo e bem construído.
-
-Aprimorar meus conhecimentos para o ENEM.
-
-Unir programação, design e audiovisual nos meus projetos.
-
+  - Evoluir como desenvolvedor full stack.
+  - Entregar o Menit como um produto completo e bem construído.
+  - Aprimorar meus conhecimentos para o ENEM.
+  - Unir programação, design e audiovisual nos meus projetos.
 </details>
 
 <details>
   <summary><strong>⚡ O que você encontrará por aqui</strong></summary>
   <br />
 
-Aplicações web e experimentos autorais.
-
-Projetos de frontend e backend.
-
-Interfaces com atenção aos detalhes.
-
-Minha evolução contínua como programador.
-
+  - Aplicações web e experimentos autorais.
+  - Projetos de frontend e backend.
+  - Interfaces com atenção aos detalhes.
+  - Minha evolução contínua como programador.
 </details>
 
 <details>
   <summary><strong>🎬 Quando não estou programando</strong></summary>
   <br />
 
-Provavelmente estou editando algum vídeo, criando no Photoshop, estudando uma ideia nova ou procurando uma forma melhor de transformar um conceito em algo visual e funcional.
-
+  Provavelmente estou editando algum vídeo, criando no Photoshop, estudando uma ideia nova ou procurando uma forma melhor de transformar um conceito em algo visual e funcional.
 </details>
 
-> github_data
+## `> github_data`
 
 <div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&hide_border=true&bg_color=0d1117&title_color=ff173d&icon_color=ff173d&text_color=ffffff&ring_color=8b0015&locale=pt-br" alt="Estatísticas do GitHub" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&hide_border=true&bg_color=0d1117&title_color=ff173d&text_color=ffffff&locale=pt-br" alt="Linguagens mais usadas" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=HeitorCarvalho21&show_icons=true&hide_border=true&bg_color=0d1117&title_color=ff173d&icon_color=ff173d&text_color=ffffff&ring_color=8b0015&locale=pt-br" alt="Estatísticas do GitHub" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HeitorCarvalho21&layout=compact&hide_border=true&bg_color=0d1117&title_color=ff173d&text_color=ffffff&locale=pt-br" alt="Linguagens mais usadas" />
 </div>
 
 <br />
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=SEU_USUARIO&theme=dark&hide_border=true&background=0D1117&ring=FF173D&fire=FF173D&currStreakLabel=FF173D&sideLabels=FFFFFF&dates=8B949E" alt="Sequência de contribuições" />
+  <img src="https://streak-stats.demolab.com?user=HeitorCarvalho21&theme=dark&hide_border=true&background=0D1117&ring=FF173D&fire=FF173D&currStreakLabel=FF173D&sideLabels=FFFFFF&dates=8B949E" alt="Sequência de contribuições" />
 </div>
 
-> connect
+## `> connect`
 
 <div align="center">
   <a href="mailto:Heitorcarsil@gmail.com">
@@ -147,5 +144,5 @@ Provavelmente estou editando algum vídeo, criando no Photoshop, estudando uma i
 </div>
 
 <div align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:ff173d,55:67000d,100:050505" alt="Rodapé decorativo" />
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=8B0015" alt="Rodapé decorativo" />
 </div>
