@@ -29,7 +29,7 @@
 ## `> whoami`
 
 <p align="center">
-  Atualmente tenho <strong><!-- AGE:START -->17 anos<!-- AGE:END --></strong>, estudo Desenvolvimento de Sistemas e gosto de transformar ideias em experiências digitais completas.
+  Atualmente tenho <strong><!-- AGE:START -->18 anos<!-- AGE:END --></strong>, estudo Desenvolvimento de Sistemas e gosto de transformar ideias em experiências digitais completas.
 </p>
 
 ```ts
